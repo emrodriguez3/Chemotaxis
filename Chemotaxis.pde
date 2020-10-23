@@ -1,6 +1,6 @@
 int x = 250;
 int y = 250;
-Bacteria[] bac = new Bacteria[100];
+Bacteria[] bac = new Bacteria[115];
 int numberDraw = 0;
 void setup(){
   size(500,500);
