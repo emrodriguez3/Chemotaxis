@@ -12,7 +12,7 @@ void setup(){
  numberDraw++;
  if(numberDraw  == 1){
  for(int i = 0; i < bac.length;i++){
-   bac[i] = new Bacteria((int)(Math.random()*350),(int)(Math.random()*350));
+   bac[i] = new Bacteria((int)(Math.random()*450),(int)(Math.random()*450));
   }
   //System.out.println("bacteria");
   }
